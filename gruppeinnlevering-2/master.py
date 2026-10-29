@@ -2,12 +2,12 @@
 
 poeng = 0
 
-#--- intro ---
+#--- INTRO ---
 print("Dere er kommet i en vanskelig fase")
 print("Det er konflikter i teamet og prototypen skal snart leveres")
 print("du er prosjektleder Erling og må ta tre valg for videreutvikling av teamet")
 
-#---- valg 1 ---
+#---- VALG 1 ---
 print("--------------------------------------------")
 print ("konflikt silje vs elias angående teknologi og design")
 print(" A tar det opp i plenum")
@@ -27,7 +27,7 @@ else:
     print("ugyldig svar velg A eller B")
 print("")
 
-#--- valg 2 ---
+#--- VALG 2 ---
 print("--------------------------------------------")
 print("konflikt hamdi vil ha kontroll halgeir vil ha åpenhet")
 print("A) felles avklaringsmøte")
@@ -45,7 +45,7 @@ else:
     print("ugyldig svar velg A eller B")
 print("")
 
-#--- valg 3 ---
+#--- VALG 3 ---
 print("--------------------------------------------")
 print("hvordan bevarer du motivasjon i teamet?")
 print("A) relasjonsbygging / sosial tid")
@@ -63,7 +63,7 @@ else:
     print ("ugyldig svar velg A eller B")
 print("")
 
-#--- slutt ---
+#--- SLUTT ---
 print("--------------------------------------------")
 print("du fikk", poeng, "poeng")
 
