@@ -80,6 +80,7 @@ if poeng == 3:
 
 elif poeng >= 1:
     print("Prototypen blir levert, men teamets samhold og relasjoner står ikke godt til:(")
+    print("Du er et skritt nærmere norming!!")
 
 else:
     print("Fristen for protoypen går ut og konflikter blir mer seriøse")
