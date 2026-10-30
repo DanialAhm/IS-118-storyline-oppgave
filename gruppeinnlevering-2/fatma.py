@@ -1,13 +1,13 @@
-#Gruppeinnlevering 2 - Erling og konfliktene i prosjektteamet
+# - Erling og konfliktene i prosjektteamet
 
 poeng = 0
-#--- introduksjon ---
+# --- Introduksjon ---
 print("Det har gått seks uker og teamet går gjennom en stormingsfase!")
 
 print("Konflikter er tilstede og prototypen skal leveres under 3 uker.")
 print("Du er prosjektleder Erling og du må ta beslutninger som påvirker teamets fremtid.")
 
-# --- Beslutningspunkt 1: Silje og Elias 
+# det 1. valget - Silje og Elias 
 print("Silje mener Elias sitt teknologivalg stopper brukeropplevelsen.")
 print("Elias mener Silje sitt designvalg er kostbart og urealistisk.")
 print("Diskusjonen har blitt personlig, hva gjør du?")
@@ -29,7 +29,7 @@ else:
     print("Erling tar en beslutning som teamet ikke er enige i, men prosjektet går videre!")
     print("Elias og Silje er fortsetter å bære nag mot hverandre og betro seg til sine nærmeste")
 
-#--- Beslutningspunkt 2: Hamdi og Hallgeir ---
+#--- Det 2. valget - Hamdi og Hallgeir 
 print("Beslutning nr 2. (Hamdi og hallgeir)")
 print("Diskusjonen mellom Hamdi og Hallgeir blir stadig mer intens.")
 print("Hamdi ønsker en kontrollert løsning og Hallgeir ønsker en dialogbasert løsning.")
@@ -52,7 +52,7 @@ else:
     print("situasjonen blir ikke grripet inn i")
     print("Det er fortsatt spenning mellom Hamdi og Hallgeir,men prosjektet fortsetter")
 
-#--- Beslutningspunkt 3: hvordan bevare motivasjonen i teamet? ---
+#--- Det 3. valget: hvordan bevare motivasjonen i teamet? ---
 print("Hva kan du gjøre for å bevare motivasjonen i teamet!")
 print("Her skal du velge hvilken strategi du vil bruke for å bevare motivasjonen i teamet etter en intens periode med konflikter")
 print(" 1. Prioritere fremdrift i prosjektet og fokusere på leveranse!")
