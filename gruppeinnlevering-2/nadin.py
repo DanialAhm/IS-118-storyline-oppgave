@@ -53,12 +53,12 @@ print("B: Kombinere begge forslagene")
 
 valg2 = input("Velg A eller B: ")
 
-if valg2 == "A" or valg 2 == "a":
+if valg2 == "A" or valg2 == "a":
     print("Den ene parten blir fornøyd, men den andre føler seg overkjørt.")
     poeng = poeng + 1
     print("Du fikk" , poeng, "poeng")
 
-elif valg2 == "B" or valg 2 == "b":
+elif valg2 == "B" or valg2 == "b":
     print("Kommunen beholder kontrollen.")
     print("Brukerne får gi tilbakemeldinger gjennom en offisiell kanal.")
     poeng = poeng + 2
@@ -77,14 +77,14 @@ print("")
 print("A: Fokusere bare på arbeidet")
 print("B: Arrangere team building og lage milepæler")
 
-valg 3 = input("Velg A eller B: ")
+valg3 = input("Velg A eller B: ")
 
-if valg 3 == "A" or valg 3 == "a":
+if valg3 == "A" or valg3 == "a":
     print("Arbeidet fortsetter, men motivasjonen synker.")
     poeng = poeng + 1
     print("Du fikk", poeng, "poeng")
 
-elif valg 3 == "B" or valg 3 == "b":
+elif valg3 == "B" or valg3 == "b":
     print("Teamet blir mer motivert og samarbeider bedre.")
     poeng = poeng + 2
     print("Du fikk", poeng, "poeng")
