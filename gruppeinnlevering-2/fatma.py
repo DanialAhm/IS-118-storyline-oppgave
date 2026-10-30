@@ -12,7 +12,7 @@ print("Silje mener Elias sitt teknologivalg stopper brukeropplevelsen.")
 print("Elias mener Silje sitt designvalg er kostbart og urealistisk.")
 print("Diskusjonen har blitt personlig, hva gjør du?")
 
-print(" 1. Blande inn HR, siden Elias og Silje ikke inngår kompromiss. Erlend kan ikke bruke tid på slike problemer!")
+print(" 1. Blande inn HR, siden Elias og Silje ikke inngår kompromiss. Erling kan ikke bruke tid på slike problemer!")
 print(" 2. Ta individuelle samtaler med Silje og Elias, og ønske at de må skjerpe seg og fokusere på å finne en løsning sammen!")
 valg1= input("velg 1 eller 2:")
 
