@@ -84,3 +84,4 @@ elif poeng >= 1:
 else:
     print("Fristen for protoypen går ut og konflikter blir mer seriøse")
     print("Teamet kommer ikke forbi stormingsfasen:(")
+print("du fikk", poeng, "poeng!")
