@@ -23,14 +23,14 @@ print("")
 print("A: Ingorere konflikten")
 print("B: Ha individuelle samtaler og deretter et felles møte")
 
-     Valg 1 = input("Velg A eller B: ")
+Valg1 = input("Velg A eller B: ")
 
-if valg 1 == "A" or valg 1 == "a":
+if Valg1 == "A" or Valg1 == "a":
     print("Risiko: Konflikten vokser, samarbeidet svekkes og prosjektet kan bli forsinket.")
     poeng = poeng + 1
     print("Du fikk", poeng, "poeng") 
 
-elif valg 1 == "B" or valg 1 == "b":
+elif "valg1" == "B" or Valg1 == "b":
     print("Erling tar individuelle samtaler og holder deretter et felles møte.")
     print("Dette kan bidra til bedre samarbeid i teamet.")
     poeng = poeng + 2
@@ -51,9 +51,9 @@ print("")
 print("A: Velge én av sidene")
 print("B: Kombinere begge forslagene")
 
-valg 2 = input("Velg A eller B: ")
+valg2 = input("Velg A eller B: ")
 
-if valg 2 == "A" or valg 2 == "a":
+if valg2 == "A" or valg 2 == "a":
     print("Den ene parten blir fornøyd, men den andre føler seg overkjørt.")
     poeng = poeng + 1
     print("Du fikk" , poeng, "poeng")
